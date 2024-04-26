@@ -18,7 +18,7 @@
   <a href="https://bk10895.medium.com/" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
   <a href="https://stackoverflow.com/users/24711935/brijesh-kumar" target="blank"><img src="https://img.shields.io/badge/Stack Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>
   <a href="https://www.instagram.com/brij.1728/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="#" target="blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a> <!-- Placeholder for Twitter with an 'X' logo; replace with actual link -->
+  <a href="#" target="blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=Twitter&logoColor=white" alt="X" /></a> <!-- Placeholder for Twitter with an 'X' logo; replace with actual link -->
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
