@@ -13,12 +13,12 @@
 
 <h3 align="center">🌐 Socials:</h3>
 <p align="center">
-  <a href="https://dev.to/brij1728" target="blank"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="brij1728" /></a>
-  <a href="https://www.linkedin.com/in/brijeshapp/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://bk10895.medium.com/" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="https://stackoverflow.com/users/24711935/brijesh-kumar" target="blank"><img src="https://img.shields.io/badge/Stack Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>
-  <a href="https://www.instagram.com/brij.1728/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://twitter.com/bk10895" target="blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://dev.to/brij1728" target="blank"><img alt="Dev.to" src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/brijeshapp/" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://bk10895.medium.com/" target="blank"><img alt="Medium" src="https://img.shields.io/badge/MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://stackoverflow.com/users/24711935/brijesh-kumar" target="blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/STACK%20OVERFLOW-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
+  <a href="https://www.instagram.com/brij.1728/" target="blank"><img alt="Instagram" src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://twitter.com/bk10895" target="blank"><img alt="Twitter" src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge"/></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
