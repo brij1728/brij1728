@@ -13,13 +13,13 @@
 
 <h3 align="center">🌐 Socials:</h3>
 <p align="center">
-  <a href="https://dev.to/brij1728" target="blank"><img src="https://img.shields.io/badge/DEV.to-Profile-blue" alt="brij1728" /></a>
-  <a href="https://www.linkedin.com/in/brijeshapp/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue" alt="LinkedIn" /></a>
-  <a href="https://bk10895.medium.com/" target="blank"><img src="https://img.shields.io/badge/Medium-Blog-orange" alt="Medium" /></a>
-  <a href="https://stackoverflow.com/users/24711935/brijesh-kumar" target="blank"><img src="https://img.shields.io/badge/Stack Overflow-Profile-yellow" alt="Stack Overflow" /></a>
-  <a href="https://www.instagram.com/brij.1728/" target="blank"><img src="https://img.shields.io/badge/Instagram-Profile-red" alt="Instagram" /></a>
-  <a href="https://www.youtube.com/@brij1728" target="blank"><img src="https://img.shields.io/badge/YouTube-Channel-red" alt="YouTube" /></a>
-  <a href="#" target="blank"><img src="https://img.shields.io/badge/Twitter-Profile-blue" alt="Twitter" /></a> <!-- Placeholder for Twitter; replace with actual link and icon -->
+  <a href="https://dev.to/brij1728" target="blank"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="brij1728" /></a>
+  <a href="https://www.linkedin.com/in/brijeshapp/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://bk10895.medium.com/" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://stackoverflow.com/users/24711935/brijesh-kumar" target="blank"><img src="https://img.shields.io/badge/Stack Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="https://www.instagram.com/brij.1728/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.youtube.com/@brij1728" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="#" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a> <!-- Placeholder for Twitter; replace with actual link -->
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
