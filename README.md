@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brijesh Kumar</h1>
-<h3 align="center">Ambitious and Motivated React Front-End Developer</h3>
+<h3 align="center">Ambitious and Motivated React Front-End Developer from India</h3>
 
 <p align="center">
   I have the skills to drive and create engaging and intuitive user experiences. Let's collaborate!
@@ -11,14 +11,15 @@
 - 📫 How to reach me: **bk10895@gmail.com**
 - 📄 Know about my experiences [here](https://www.brijesh.app/brijesh_resume.pdf)
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">🌐 Socials:</h3>
 <p align="center">
-  <a href="https://dev.to/brij1728" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="brij1728" height="30" width="40" /></a>
-  <a href="https://twitter.com/bk10895" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bk10895" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/brijeshapp/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brijeshapp" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/24711935/brijesh-kumar" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24711935/brijesh-kumar" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/brij.1728/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brij.1728" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/@brij1728" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@brij1728" height="30" width="40" /></a>
+  <a href="https://dev.to/brij1728" target="blank"><img src="https://img.shields.io/badge/DEV.to-Profile-blue" alt="brij1728" /></a>
+  <a href="https://www.linkedin.com/in/brijeshapp/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue" alt="LinkedIn" /></a>
+  <a href="https://bk10895.medium.com/" target="blank"><img src="https://img.shields.io/badge/Medium-Blog-orange" alt="Medium" /></a>
+  <a href="https://stackoverflow.com/users/24711935/brijesh-kumar" target="blank"><img src="https://img.shields.io/badge/Stack Overflow-Profile-yellow" alt="Stack Overflow" /></a>
+  <a href="https://www.instagram.com/brij.1728/" target="blank"><img src="https://img.shields.io/badge/Instagram-Profile-red" alt="Instagram" /></a>
+  <a href="https://www.youtube.com/@brij1728" target="blank"><img src="https://img.shields.io/badge/YouTube-Channel-red" alt="YouTube" /></a>
+  <a href="#" target="blank"><img src="https://img.shields.io/badge/Twitter-Profile-blue" alt="Twitter" /></a> <!-- Placeholder for Twitter; replace with actual link and icon -->
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
