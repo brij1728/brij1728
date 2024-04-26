@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brijesh Kumar</h1>
-<h3 align="center">Ambitious and Motivated React Front-End Developer from India</h3>
+<h3 align="center">Ambitious and Motivated React Front-End Developer</h3>
 
 <p align="center">
   I have the skills to drive and create engaging and intuitive user experiences. Let's collaborate!
@@ -15,9 +15,9 @@
 <p align="center">
   <a href="https://dev.to/brij1728" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="brij1728" height="30" width="40" /></a>
   <a href="https://twitter.com/bk10895" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bk10895" height="30" width="40" /></a>
-  <a href="[https://linkedin.com/in/bk10895](https://www.linkedin.com/in/brijeshapp/)" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bk10895" height="30" width="40" /></a>
-  <a href="[https://stackoverflow.com/users/bk10895](https://stackoverflow.com/users/24711935/brijesh-kumar)" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="bk10895" height="30" width="40" /></a>
-  <a href="[https://instagram.com/bk10895](https://www.instagram.com/brij.1728/)" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bk10895" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/brijeshapp/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brijeshapp" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/24711935/brijesh-kumar" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24711935/brijesh-kumar" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/brij.1728/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brij.1728" height="30" width="40" /></a>
   <a href="https://www.youtube.com/c/@brij1728" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@brij1728" height="30" width="40" /></a>
 </p>
 
